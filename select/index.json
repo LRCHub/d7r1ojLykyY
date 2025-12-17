@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Untitled world",
+  "base_artist": "ReoNa",
+  "createdAt": "2025-12-17T04:53:15.366054Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Untitled world",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/01_Untitled_world_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Untitled world",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/02_Untitled_world_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Untitled World (From \"Arknights\")",
+      "artist": "Mewsic",
+      "has_synced": true,
+      "path": "select/03_Untitled_World_(From__Arknights_)_Mewsic.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Untitled world",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/04_Untitled_world_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Untitled world \"unknown version Live at PACIFICO YOKOHAMA 2021.04.29\" (Live Version)",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/05_Untitled_world__unknown_version_Live_at_PACIFICO_YOKOHAMA_2021.04.29__(Live_Vers_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Untitled world \"unknown ver. Live at PACIFICO YOKOHAMA 2021.04.29\" - Live Version",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/06_Untitled_world__unknown_ver._Live_at_PACIFICO_YOKOHAMA_2021.04.29__-_Live_Versio_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Untitled world \"unknown version Live at PACIFICO YOKOHAMA 2021.04.29\" (Live)",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/07_Untitled_world__unknown_version_Live_at_PACIFICO_YOKOHAMA_2021.04.29__(Live)_ReoNa.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Untitled world",
+      "artist": "ReoNa",
+      "has_synced": false,
+      "path": "select/pl_01_Untitled_world_ReoNa.txt"
+    }
+  ]
+}
